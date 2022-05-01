@@ -25,7 +25,7 @@ h2{
 }
 
 .top-banner{
-    background-image: url("images/top-banner.png");
+    background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
@@ -41,7 +41,7 @@ section{
    font-weight: bold;
 }
 .dream-area{
-    background-image: url("images/dream-bg.png");
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -52,7 +52,7 @@ section{
     height: 80%;
 }
 .experiences-area{
-    background-image: url("images/exp-bg.png");
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -65,7 +65,7 @@ section{
 #baby-web
 {
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, orange, red, green, white, rgb(50, 19, 91) ) ;
+    border-image: linear-gradient(180deg, blue, orange, red, green, rgb(50, 19, 91) ) ;
     border-image-slice: 1;  
 }
 footer p{
